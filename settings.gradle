@@ -1,0 +1,3 @@
+include ':intentparser'
+include ':app'
+rootProject.name = "sample"
