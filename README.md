@@ -21,7 +21,7 @@ Add this to your application gradle
 ```
 
 dependencies {
-	        implementation 'com.github.lau1944:intentparser:$currentVersion'
+	        implementation 'com.github.lau1944:intentparser:v$currentVersion'
 	}
 ```            
 
